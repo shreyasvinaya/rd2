@@ -7,7 +7,9 @@ Remote System
 Build 
 ```
 git clone repository.git
+
 cd repository
+
 docker build --rm -t containerName .
 
 ```
